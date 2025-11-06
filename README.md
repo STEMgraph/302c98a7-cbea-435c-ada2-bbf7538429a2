@@ -1,6 +1,10 @@
 <!---
 {
-  "depends_on": ["https://github.com/STEMgraph/718193ef-11a1-408d-af23-4b10c24d490d", "https://github.com/STEMgraph/99787eda-617a-4a68-b9a4-d60ec5c5c303"],
+  "id": "302c98a7-cbea-435c-ada2-bbf7538429a2",
+  "depends_on": [
+    "718193ef-11a1-408d-af23-4b10c24d490d",
+    "99787eda-617a-4a68-b9a4-d60ec5c5c303"
+  ],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-02",
   "keywords": ["C Compiler", "Assembler", "Linking", "Object Files"]
